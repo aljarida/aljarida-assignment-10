@@ -1,0 +1,8 @@
+Flask
+open_clip
+torch
+torchvision
+numpy
+pandas
+pillow
+
